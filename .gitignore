@@ -1,0 +1,10 @@
+# Jangan lacak repo dotfiles itu sendiri
+.dots
+
+# Jangan lacak log atau backup dari skrip kita
+/kde-install-*.log
+/dots-backup-*/
+
+# File sensitif
+.bash_history
+.ssh/
