@@ -1,15 +1,8 @@
-# Abaikan repositori bare itu sendiri
 .dots
-
-# Abaikan backup dan log dari skrip kita
 dots-backup-*/
 kde-install-*.log
-
-# Abaikan histori shell
 .bash_history
 .fish_history
-
-# Abaikan file/direktori sensitif
 .ssh/
 .gnupg/
 
