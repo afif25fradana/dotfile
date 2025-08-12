@@ -1,0 +1,11 @@
+[Desktop Entry]
+DefaultProfile=Fradana.profile
+
+[General]
+ConfigVersion=1
+
+[Notification Messages]
+CloseAllTabs=true
+
+[UiSettings]
+ColorScheme=
